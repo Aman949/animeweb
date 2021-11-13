@@ -1,2 +1,2 @@
 # animeweb
-A website where you can read manga
+A website where you can watch your favorite anime!
